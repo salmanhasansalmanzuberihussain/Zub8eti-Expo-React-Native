@@ -30,3 +30,4 @@ Jumping to NextJS Integration and adding images with Blob Storage
 
 
 Updates on features for mobile development [Firestone Library Princeton NJ] [60 international/usa lock]
+https://docs.expo.dev/build/setup/ [Development Build]

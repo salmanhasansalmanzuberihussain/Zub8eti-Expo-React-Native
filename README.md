@@ -32,3 +32,11 @@ Jumping to NextJS Integration and adding images with Blob Storage
 Updates on features for mobile development [Firestone Library Princeton NJ] [60 international/usa lock]
 https://docs.expo.dev/build/setup/ [Development Build]
 Fixing Mobile Application [Fixing storage for leaner development] (Image storage will be on blur)
+
+
+Next Focus In Life
+User Authentication/2FA
+Store Integration 
+Stripe Integration 
+Content Integration
+

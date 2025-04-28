@@ -39,4 +39,5 @@ User Authentication/2FA
 Store Integration 
 Stripe Integration 
 Content Integration
+Email Integration
 

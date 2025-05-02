@@ -41,3 +41,5 @@ Stripe Integration
 Content Integration
 Email Integration
 
+Development Process Complete [Android/Apple] (IOS Iphone Issue) [Working on Homebrew] 
+

@@ -45,3 +45,5 @@ Development Process Complete [Android/Apple] (IOS Iphone Issue) [Working on Home
 https://stackoverflow.com/questions/58934022/react-native-error-failed-to-install-cocoapods-dependencies-for-ios-project-w
 [Cocopods installed for another build] 
 
+
+

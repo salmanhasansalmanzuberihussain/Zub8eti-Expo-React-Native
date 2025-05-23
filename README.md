@@ -47,5 +47,5 @@ https://stackoverflow.com/questions/58934022/react-native-error-failed-to-instal
 
 Internal Build Distribution 
 Readjustment of Eas Cli 
-
+MySql Download for command not found
 

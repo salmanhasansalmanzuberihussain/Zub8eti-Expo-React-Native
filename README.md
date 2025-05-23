@@ -46,6 +46,6 @@ https://stackoverflow.com/questions/58934022/react-native-error-failed-to-instal
 [Cocopods installed for another build] 
 
 Internal Build Distribution 
-
+Readjustment of Eas Cli 
 
 
